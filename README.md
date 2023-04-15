@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Wellington junior! 👋
-📚 Sou desenvolvedor de software e graduado em Análise e Desenvolvimento de Sistemas pela faculdade Senac Pernambuco.
+📚 Sou desenvolvedor de software com formação em Desenvolvimento de Sistemas pela faculdade IBRATEC.
 
 💻 Apaixonado em trazer soluções, analisar e melhorar sempre os processos! Por este motivo, estou em constante aprendizado.
 
