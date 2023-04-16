@@ -3,8 +3,9 @@
 
 💻 Apaixonado em trazer soluções e melhorar sempre os processos! Por este motivo, estou em constante aprendizado.
 
-📫 Informações de contato: LinkedIn - https://www.linkedin.com/in/wellington-jorge-leandro-junior-434937184/ //
-E-mail: wjunior0941@gmail.com
+📫 Informações de contato: LinkedIn - https://www.linkedin.com/in/wellington-jorge-leandro-junior-434937184/ 
+
+E-mail: wjunior0941@souexpert.unibratec.edu.br
 
 ##
 
