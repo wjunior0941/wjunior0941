@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Wellington junior! 👋
-📚 Estou em busca do meu primeiro emprego. Tenho formação em Desenvolvimento de Sistemas pela faculdade IBRATEC. Atualmente estou estudando JAVA, PYTHON, BANCO DE DADOS e AWS.
+📚 Estou em busca do meu primeiro emprego. Tenho formação em Desenvolvimento de Sistemas pela faculdade IBRATEC. Atualmente estou estudando JAVA, PYTHON, BANCO DE DADOS e AWS. Estou sempre pronto para novos desafios e aprender mais.
 
 💻 Apaixonado em trazer soluções e melhorar sempre os processos! Por este motivo, estou em constante aprendizado.
 
